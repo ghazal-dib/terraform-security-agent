@@ -4,7 +4,6 @@ __pycache__/
 *.tfstate
 *.tfstate.*
 *.tfvars
-.terraform.lock.hcl
 crash.log
 .env
 *.pem
